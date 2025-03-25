@@ -71,3 +71,13 @@ parts:
   chapters:
   - file: 14/notes
   - file: 14/lab
+  - file: 14/sol
+- caption: ODE integrators II
+  chapters:
+  - file: 15/notes
+  - file: 15/lab
+  - file: 15/sol
+- caption: ODE integrators III
+  chapters:
+  - file: 16/notes
+  - file: 16/lab
